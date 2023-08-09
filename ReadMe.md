@@ -2,7 +2,7 @@
 I am a front-end developer specializing in ReactJS and Bootstrap, with sufficient experience in developing scalable, maintainable and easy-to-use web applications.<br> Continuous learning is a priority for me, which allows me to stay ahead of the latest trends and technologies in web development.
 
 ### 📧 Contact me
-[![](https://img.shields.io/badge/Gmail-merabet.abdelkarim.dev@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](merabet.abdelkarim.dev@gmail.com)
+[![](https://img.shields.io/badge/Gmail-merabet.abdelkarim.dev@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:merabet.abdelkarim.dev@gmail.com)
 
 
 ## 🌐 Socials:
