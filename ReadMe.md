@@ -27,7 +27,7 @@ Full Stack Developer with 3+ years of experience building web products, from res
 ## 🚀 Featured Projects
 
 - **[wallet-service](https://github.com/MerabetAbdelkarim/wallet-service)**: backend service built with Java
-- **[chehria](https://github.com/MerabetAbdelkarim/chehria)**: Al-Chahriya, a personal finance app (Flutter + Firebase) for tracking salary, expenses, subscriptions and debts in DZD
+- **[chehria](https://github.com/MerabetAbdelkarim/chehria)**: Al-Chahriya, an Android app (Flutter + Firebase) that calculates how much you can spend each day until payday and tracks expenses, subscriptions and debts in DZD · [Live demo](https://merabetabdelkarim.github.io/chehria/)
 - **[Souqi](https://github.com/MerabetAbdelkarim/Souqi)**: e-commerce web app with React and Redux Toolkit (catalog, filtering, dynamic routing)
 - **[Printer Repair Shop Management](https://printer-repair-alpha.vercel.app)**: web app for repair orders, customers, devices and invoicing
 
